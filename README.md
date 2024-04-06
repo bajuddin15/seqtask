@@ -12,6 +12,7 @@ Playstore link: [https://play.google.com/store/apps/details?id=com.crm_messaging
 Also i have build a some products Chat app using MERN, Automation app using MERN, stripe chat app using stripe app development library for our company.
 
 My personal project Chat app using Socket.io and MERN - 
-Deployed Link:- [demo link](https://github.com/bajuddin15/mern-chat-app)
+Demo Link:- [https://mern-chat-app-tswd.onrender.com/login](https://mern-chat-app-tswd.onrender.com/login)
+Github Link:- [https://github.com/bajuddin15/mern-chat-app](https://github.com/bajuddin15/mern-chat-app)
 
 So you can look at once.
